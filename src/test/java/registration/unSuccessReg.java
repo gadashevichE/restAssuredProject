@@ -1,4 +1,4 @@
-package api;
+package registration;
 
 public class unSuccessReg {
     private String error;

@@ -1,4 +1,4 @@
-package api;
+package users;
 
 public class UserTime {
     private String name;

@@ -1,4 +1,4 @@
-package api;
+package users;
 
 public class UserData {
     public Integer id;
